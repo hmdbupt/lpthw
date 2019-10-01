@@ -7,6 +7,9 @@ from sys import argv
 # To run this script do the following:
 # python ex13.py first second third OR
 # python ex13.py Monkey Gorilla Chimpanzee
+# Important note - All the command line arguments that are entered by the user
+# will be strings. We will have convert them, for example in case of integers,
+# by using int()
 script, first, second, third = argv
 
 print("The script is called:", script)
