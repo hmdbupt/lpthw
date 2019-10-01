@@ -1,7 +1,9 @@
 # Exercise 13 - Parameters, unpacking, variables
 # importing from sys module argv (argument variable)
+# The argv is used to take input from the user while opening/running the script
+# It is similar to input() but input takes the input from user during
+# the execution of the program
 from sys import argv
-# read the WYSS section for how to run this
 # To run this script do the following:
 # python ex13.py first second third OR
 # python ex13.py Monkey Gorilla Chimpanzee
