@@ -1,3 +1,4 @@
+# Practice exercise
 # the end = ' ' in this line lets you get the input on the same line
 print("Enter your first name:", end = ' ')
 first_name = input()

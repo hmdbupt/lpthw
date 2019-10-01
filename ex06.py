@@ -1,3 +1,4 @@
+# Exercise 6 - Strings and text
 # types of people
 types_of_people = 10
 # f here means format. It is used to put the variable types_of_people inside

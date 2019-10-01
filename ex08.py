@@ -1,3 +1,4 @@
+# Exercise 8 - Printing, printing
 # a variable that saves string with four placeholders {} for future use
 # variables can be put inside {}
 formatter = "{} {} {} {}"

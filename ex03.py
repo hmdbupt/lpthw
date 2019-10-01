@@ -1,3 +1,4 @@
+# Exercise 3 - Nummbers and math
 # Prints I will now count my chickens:
 print("I will now count my chickens:")
 

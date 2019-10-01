@@ -1,3 +1,4 @@
+# Practice exercise
 print('Calculate something:')
 
 print('This is something: ', 5 + 5)

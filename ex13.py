@@ -1,3 +1,4 @@
+# Exercise 13 - Parameters, unpacking, variables
 # importing from sys module argv (argument variable)
 from sys import argv
 # read the WYSS section for how to run this

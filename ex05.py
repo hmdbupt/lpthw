@@ -1,3 +1,4 @@
+# Exercise 5 - More variables and printing
 name = 'Z A. Shaw'
 age = 35 # not a lie
 height = 74 # inches
